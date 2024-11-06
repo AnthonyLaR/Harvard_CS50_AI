@@ -22,3 +22,5 @@ try:
         tree.draw()
 except ValueError:
     print("No parse tree possible.")
+except:
+   		print("End.")
